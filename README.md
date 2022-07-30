@@ -60,6 +60,9 @@ Make high-quality carbon credits accessible to everyone.
 
 # List Reading 
 
+- Carbon Credit Blockchain Startup
+  - dclimate.medium.com
+
 - What Are Carbon Credit? - [Click Here](https://www.conserve-energy-future.com/carbon-credits.php)
 - Want To Understand Carbon Credits? Read This - [Click Here](https://www.forbes.com/sites/erikkobayashisolomon/2020/03/13/want-to-understand-carbon-credits-read-this/?sh=490e4feb71aa)
 - How to buy carbon credits to offset your footprint - [Click Here](https://climatetrade.com/how-to-buy-carbon-credits-to-offset-your-footprint/)
@@ -100,6 +103,7 @@ Make high-quality carbon credits accessible to everyone.
 # Watchlist
 
 - [ICDX](https://www.icdx.co.id/our-market/carbon)
+- [dclimate.net](https://www.dclimate.net/)
 - net0.com
 - puro.earth
 - [bluesource.com](https://www.bluesource.com/services/carbon-offset-project-development/)
@@ -114,9 +118,9 @@ Make high-quality carbon credits accessible to everyone.
 
 # IPCC
 
-<img src="/assets/IPCC.png" style="zoom:110%;" />
+<img src="assets/IPCC.png" style="zoom:110%;" />
 
-
+During the past 100 years, global average surface temperature increased by about 0.7 degrees Celsius resulting in [climate change](https://en.wikipedia.org/wiki/Climate_change).
 
 
 
@@ -129,7 +133,7 @@ The carbon market is split in two :
 - The compliance side is driven by legislative obligations placed on businesses to reduce their carbon footprint. 
 - The voluntary side grew out of demands from consumers that the companies they buy from operate in the most carbon-neutral way possible.
 
-<img src="/assets/Carbon-Market-1.png" style="zoom:110%;" />
+<img src="assets/Carbon-Market-1.png" style="zoom:110%;" />
 
 
 
