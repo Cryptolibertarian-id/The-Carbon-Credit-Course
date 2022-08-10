@@ -58,6 +58,12 @@ Make high-quality carbon credits accessible to everyone.
 
 
 
+# Read First
+
+- Backing Good Carbon - [Click Here](https://medium.com/greenfield-one/backing-goodcarbon-tokenizing-nature-based-climate-solutions-to-close-funding-gap-create-forward-15750ecffc0b)
+
+
+
 # List Reading 
 
 - Carbon Credit Blockchain Startup
@@ -104,6 +110,7 @@ Make high-quality carbon credits accessible to everyone.
 
 - [ICDX](https://www.icdx.co.id/our-market/carbon)
 - [dclimate.net](https://www.dclimate.net/)
+- Open Forest Protocol - [Click Here](https://www.openforestprotocol.org/validators)
 - net0.com
 - puro.earth
 - [bluesource.com](https://www.bluesource.com/services/carbon-offset-project-development/)
@@ -261,3 +268,53 @@ Yet even if every country satisfied their Paris commitments to reduce carbon emi
 Put simply, blockchain is the name for a digital ledger in which transactions (often made with "tokens" or a cryptocurrency such as bitcoin) are recorded chronologically and publicly.
 
 Applying this to carbon credits to create a "carbon currency" is the key to demystifying and consolidating the carbon market so it can scale up. Carbon credits are the perfect candidate for a digital currency as they are data-driven, rely on multiple approval steps and exist separately to the physical impacts to which they correlate.
+
+
+
+
+
+# Carbon Financing
+
+
+
+## Exchange Trade Fund (ETF)
+
+Investors may own a handful of stocks within their investment portfolio  in which they track each stock's individual performance. However, the  performance of a small portfolio is not indicative of the overall  market. Investors also need information about market sentiment, which is where a stock [index](https://www.investopedia.com/terms/i/index.asp) can be helpful.
+
+
+
+## Mutual Fund
+
+A **mutual fund** is a professionally managed [investment fund](https://en.wikipedia.org/wiki/Investment_fund) that pools money from many investors to purchase [securities](https://en.wikipedia.org/wiki/Security_(finance)).
+
+
+
+
+
+# Financing
+
+
+
+## Investment Portfolios
+
+
+
+<img src="assets/Finance/investment-portfolios.png" style="zoom:110%;" />
+
+
+
+### Stocks
+
+Stocks are a tiny slice of ownership in a company. Investors buy stocks that they believe will go up in value over time. The risk, of course, is that the stock might not go up at all, or that it might even lose value. To help mitigate that risk, many investors invest in stocks through funds — such as index funds, mutual funds or ETFs — that hold a collection of stocks from a wide variety of companies. If you do opt for individual stocks, it’s usually wise to allocate only 5% to 10% of your portfolio to them.
+
+
+
+### Bonds
+
+Bonds are loans to companies or governments that get paid back over time with interest. Bonds are considered to be safer investments than stocks, but they generally have lower returns. Since you know how much you’ll receive in interest when you invest in bonds, they’re referred to as fixed-income investments. This fixed rate of return for bonds can balance out the riskier investments, such as stocks, within an investor’s portfolio. 
+
+
+
+### Mutual Funds
+
+There are a few different kinds of mutual funds you can invest in, but their general advantage over buying individual stocks is that they allow you to add instant diversification to your portfolio. Mutual funds allow you to invest in a basket of securities, made up of investments such as stocks or bonds, all at once. Mutual funds do have some degree of risk, but they are generally less risky than individual stocks. Some mutual funds are actively managed, but those tend to have higher fees and they don’t often deliver better returns than passively managed funds, which are commonly known as index funds.
