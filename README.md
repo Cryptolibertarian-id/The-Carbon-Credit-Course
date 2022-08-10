@@ -277,21 +277,11 @@ Applying this to carbon credits to create a "carbon currency" is the key to demy
 
 
 
-## Exchange Trade Fund (ETF)
-
-Investors may own a handful of stocks within their investment portfolio  in which they track each stock's individual performance. However, the  performance of a small portfolio is not indicative of the overall  market. Investors also need information about market sentiment, which is where a stock [index](https://www.investopedia.com/terms/i/index.asp) can be helpful.
-
-
-
-## Mutual Fund
-
-A **mutual fund** is a professionally managed [investment fund](https://en.wikipedia.org/wiki/Investment_fund) that pools money from many investors to purchase [securities](https://en.wikipedia.org/wiki/Security_(finance)).
-
-
-
-
-
 # Financing
+
+
+
+Shares are **units of equity ownership in a corporation**.
 
 
 
@@ -318,3 +308,89 @@ Bonds are loans to companies or governments that get paid back over time with in
 ### Mutual Funds
 
 There are a few different kinds of mutual funds you can invest in, but their general advantage over buying individual stocks is that they allow you to add instant diversification to your portfolio. Mutual funds allow you to invest in a basket of securities, made up of investments such as stocks or bonds, all at once. Mutual funds do have some degree of risk, but they are generally less risky than individual stocks. Some mutual funds are actively managed, but those tend to have higher fees and they don’t often deliver better returns than passively managed funds, which are commonly known as index funds.
+
+
+
+### Exchange Trade Fund (ETF)
+
+Want the ease of stock trading, but diversification benefits of mutual funds? ETFs combine the best of both. Exchange traded funds are a type of investment fund that offer the best attributes of two popular assets: They have the diversification benefits of mutual funds while mimicking the ease with which stocks are traded.
+
+An exchange traded fund, or ETF, is a basket of investments like stocks or bonds. Exchange traded funds let you invest in lots of securities all at once, and ETFs often have lower fees than other types of funds. ETFs are traded more easily too.
+
+
+
+---
+
+
+
+# Mutual Fund
+
+A **mutual fund** is a professionally managed [investment fund](https://en.wikipedia.org/wiki/Investment_fund) that pools money from many investors to purchase [securities](https://en.wikipedia.org/wiki/Security_(finance)).
+
+
+
+----
+
+
+
+# Exchange Trade Fund (ETF)
+
+Investors may own a handful of stocks within their investment portfolio in which they track each stock's individual performance. However, the  performance of a small portfolio is not indicative of the overall market. Investors also need information about market sentiment, which is where a stock [index](https://www.investopedia.com/terms/i/index.asp) can be helpful.
+
+**What is index?**
+
+> In [Statistics](https://en.wikipedia.org/wiki/Statistics), [Economics](https://en.wikipedia.org/wiki/Economics) and [Finance](https://en.wikipedia.org/wiki/Finance), an **index** is a statistical measure of change in a representative group of  individual data points. These data may be derived from any number of  sources, including company performance, prices, productivity, and  employment. Economic indices track economic health from different  perspectives. 
+
+Exchange-traded funds can be an excellent entry point into the stock market for new investors. They’re cheap and typically carry lower risk than individual stocks since a single fund holds a diversified collection of investments.
+
+| Symbol | Fund                                             | 5-year performance |
+| ------ | ------------------------------------------------ | ------------------ |
+| TAN    | Invesco Solar ETF                                | 296.33%            |
+| QCLN   | First Trust NASDAQ Clean Edge Green Energy Index | 233.5%             |
+| SMH    | VanEck Semiconductor ETF                         | 194.06%            |
+| SOXX   | iShares Semiconductor ETF                        | 193.61%            |
+| XSD    | SPDR S&P Semiconductor ETF                       | 187.43%            |
+| XLK    | Technology Select Sector SPDR Fund               | 167.13%            |
+| LIT    | Global X Lithium & Battery Tech ETF              | 165.87%            |
+| VGT    | Vanguard Information Technology ETF              | 165.18%            |
+| ICLN   | iShares Global Clean Energy ETF                  | 162.62%            |
+| PTF    | Invesco DWA Technology Momentum ETF              | 162.52%            |
+
+Data is current as of August 2, 2022. Data is for informational purposes only.
+
+
+
+## S&P 500
+
+The S&P 500 is a stock market index that is viewed as a measure of how well the stock market is performing overall. It includes around 500 of the largest U.S. companies. The S&P 500 is an index comprised of 500 leading U.S. companies, and it powers some popular index funds.
+
+*For those would-be investors wanting to jump into the stock market but wondering which stock to buy, legendary investor Warren Buffett has a suggestion: Try buying 500 stocks instead.*
+
+The S&P 500 is a stock market index that measures the performance of about 500 companies in the U.S. It includes companies across 11 sectors to offer a picture of the health of the U.S. stock market and the broader economy.
+
+To be eligible for the index, companies must meet certain criteria. Among other things, companies must:
+
+- Have a [market capitalization](https://www.nerdwallet.com/article/investing/what-is-market-cap) — which refers to the total value of the company’s outstanding shares — of at least $8.2 billion.
+- Be based in the U.S.
+- Be structured as a corporation and offer common stock.
+- Be listed on an eligible U.S. exchange. (Real estate investment trusts, known as [REITs](https://www.nerdwallet.com/blog/investing/reit-investing/), are eligible for inclusion.)
+- Have positive as-reported earnings over the most recent quarter, in addition to over the four most recent quarters added together.
+
+Thanks to this criteria, only the country’s largest, most stable corporations can be included in the S&P 500. The list is reviewed and updated quarterly.
+
+The S&P 500 isn’t a company itself, but rather a list of companies — otherwise known as an index. So while you can’t buy S&P 500 stock, you can [buy shares in an index that tracks the S&P 500](https://www.nerdwallet.com/article/investing/how-to-invest-in-sp500).
+
+
+
+
+
+# Finance KRUNA
+
+- Stock Index (Stock Market Index)
+- ETF
+  - S&P 500
+- Class of Share
+  - Ordinary Shares
+  - Non-voting Shares
+  - Preference Shares
+  - Redeemable Shares
