@@ -357,6 +357,20 @@ A **mutual fund** is a professionally managed [investment fund](https://en.wikip
 
 # Exchange Trade Fund (ETF)
 
+Last Touched on 10 August 2022.
+
+| Parameter                           | Value                                                        | Note |
+| ----------------------------------- | ------------------------------------------------------------ | ---- |
+| ICDX Reksadana                      | [Click Here](https://www.idx.co.id/produk/reksa-dana/)       |      |
+| ICDX ETF                            | [Click Here](https://www.idx.co.id/produk/exchange-traded-fund-etf/) |      |
+| Wikipedia ETF                       | [Click Here](https://en.wikipedia.org/wiki/Exchange-traded_fund) |      |
+| Carbon Allowance ETF List           | [Click Here](https://etfdb.com/etfs/commodity/carbon-allowances/#etfs__returns&sort_name=assets_under_management&sort_order=desc&page=1) |      |
+| UK Emissions Trading Scheme Markets | [Click Here](https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets) |      |
+| ICE                                 | [Click Here](https://www.theice.com/products/Futures-Options/Energy/Emissions) |      |
+
+- https://www.udemy.com/course/comprehensive-study-of-financial-markets/
+- https://www.udemy.com/course/international-stock-market-investing-trading-course/
+
 Investors may own a handful of stocks within their investment portfolio in which they track each stock's individual performance. However, the  performance of a small portfolio is not indicative of the overall market. Investors also need information about market sentiment, which is where a stock [index](https://www.investopedia.com/terms/i/index.asp) can be helpful.
 
 **What is index?**
@@ -409,7 +423,7 @@ The S&P 500 isn’t a company itself, but rather a list of companies — otherwi
 # Finance KRUNA
 
 - Stock Index (Stock Market Index)
-- Investment Fund
+- Investment Fund ([Fund Trading?](https://www.investopedia.com/fund-trading-4689673))
   - Index Trading
     - Index
       - Broad-based Index
@@ -418,11 +432,19 @@ The S&P 500 isn’t a company itself, but rather a list of companies — otherwi
           - Fewest Stocks
           - Entire Markets
         - Example
-          - S&P 500
-          - Dow Jones Industrial Average (DJIA)
-          - Russel 2000 Index
-          - Nasdaq 100 Index
-          - Wilshire 5000 Total Market Index
+          - U.S Based 
+            - S&P 500
+            - Dow Jones Industrial Average (DJIA)
+            - Russel 2000 Index
+            - Nasdaq Composite
+          - International Market
+            - Financial Times Stock Exchange 100 (FTSE)
+            - Nikkei 225
+          - Others
+            - Nasdaq 100 Index
+            - Wilshire 5000 Total Market Index
+      - [Index Investing?](https://www.investopedia.com/terms/i/index.asp)
+      - [Index Trading Strategy & Education?](https://www.investopedia.com/index-trading-strategy-and-education-4689670)
 - ETF
   - S&P 500
 - Class of Share
