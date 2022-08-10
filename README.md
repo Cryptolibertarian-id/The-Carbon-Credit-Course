@@ -368,8 +368,10 @@ Last Touched on 10 August 2022.
 | UK Emissions Trading Scheme Markets | [Click Here](https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets) |      |
 | ICE                                 | [Click Here](https://www.theice.com/products/Futures-Options/Energy/Emissions) |      |
 
+- https://www.udemy.com/course/investing-in-the-stock-market-beginners/
 - https://www.udemy.com/course/comprehensive-study-of-financial-markets/
 - https://www.udemy.com/course/international-stock-market-investing-trading-course/
+- https://www.udemy.com/course/basic-course-on-futures-contracts-trading/
 
 Investors may own a handful of stocks within their investment portfolio in which they track each stock's individual performance. However, the  performance of a small portfolio is not indicative of the overall market. Investors also need information about market sentiment, which is where a stock [index](https://www.investopedia.com/terms/i/index.asp) can be helpful.
 
