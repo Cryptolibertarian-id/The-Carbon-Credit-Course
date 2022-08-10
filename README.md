@@ -323,6 +323,28 @@ An exchange traded fund, or ETF, is a basket of investments like stocks or bonds
 
 
 
+# Investment Fund
+
+
+
+## Index
+
+An index is a method to track the performance of a group of assets in a standardized way. An index is an indicator or measure of something. In finance, it  typically refers to a statistical measure of change in a securities market. Each index related to the stock and bond markets has its own calculation methodology.
+
+These could be constructed as a [broad-based index](https://www.investopedia.com/terms/b/broad-basedindex.asp) that captures the entire market, such as the [Standard & Poor's 500 Index](https://www.investopedia.com/terms/s/sp500.asp) or [Dow Jones Industrial Average](https://www.investopedia.com/terms/d/djia.asp) (DJIA), or more specialized such as indexes that track a particular industry or segment such as the [Russell 2000 Index](https://www.investopedia.com/terms/r/russell2000.asp), which tracks only small-cap stocks.
+
+
+
+### Broad-based Index
+
+A broad-based index is designed to reflect the movement of a group of stocks or an entire market—also called a market index. One of the broad-based indexes with the fewest stocks is the Dow Jones Industrial  Average (DJIA), which has just 30 stocks. One of the largest is the [FT Wilshire 5000 Index](https://www.investopedia.com/terms/w/wilshire5000equityindex.asp) (FTW5000). Other examples of broad-based indexes include the S&P 500 Index, the [Russell 3000 Index](https://www.investopedia.com/terms/r/russell_3000.asp), and the NASDAQ Composite Index.
+
+
+
+---
+
+
+
 # Mutual Fund
 
 A **mutual fund** is a professionally managed [investment fund](https://en.wikipedia.org/wiki/Investment_fund) that pools money from many investors to purchase [securities](https://en.wikipedia.org/wiki/Security_(finance)).
@@ -387,6 +409,20 @@ The S&P 500 isn’t a company itself, but rather a list of companies — otherwi
 # Finance KRUNA
 
 - Stock Index (Stock Market Index)
+- Investment Fund
+  - Index Trading
+    - Index
+      - Broad-based Index
+        - Basis
+          - Group of Stocks
+          - Fewest Stocks
+          - Entire Markets
+        - Example
+          - S&P 500
+          - Dow Jones Industrial Average (DJIA)
+          - Russel 2000 Index
+          - Nasdaq 100 Index
+          - Wilshire 5000 Total Market Index
 - ETF
   - S&P 500
 - Class of Share
