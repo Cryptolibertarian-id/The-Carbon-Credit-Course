@@ -271,6 +271,16 @@ Applying this to carbon credits to create a "carbon currency" is the key to demy
 
 
 
+## DeepMarket
+
+DeepMarkit Corp. announced the commercial launch of its proprietary MintCarbon.io platform. Bringing the VCM onto the blockchain via MintCarbon.io can help unlock  liquidity and transparency, driving market growth while bringing capital to where it is needed the most.
+
+DeepMarkit works closely with Gold Standard and Verra to ensure only the highest quality, credible projects are chosen.
+
+
+
+----
+
 
 
 # Carbon Financing
@@ -454,3 +464,5 @@ The S&P 500 isn’t a company itself, but rather a list of companies — otherwi
   - Non-voting Shares
   - Preference Shares
   - Redeemable Shares
+
+25 cent
