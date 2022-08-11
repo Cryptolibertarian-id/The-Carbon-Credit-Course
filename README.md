@@ -9,7 +9,10 @@
 
 
 - Carbon Information Resources
-- List Reading
+  - Read First 
+  - List Reading
+  - Watch List
+
 - IPCC
 - Carbon Market
   - Compliance Market
@@ -32,13 +35,13 @@
 
 # Carbon Information Resources
 
-Last Touched on 28 July 2022
+Last Touched on 12 August 2022
 
 | Parameter               | Value                                                        | Note |
 | ----------------------- | ------------------------------------------------------------ | ---- |
 | Carbon Stocks Watchlist | [Click Here](https://carboncredits.com/carbon-stocks-watchlist/) |      |
 | GHG Protocol            | [Click Here](https://ghgprotocol.org/)                       |      |
-|                         |                                                              |      |
+| Climate Clock           | [Click Here](https://climateclock.world/)                    |      |
 
 Carbon offset credits (a/k/a “carbon offsets”, “carbon credits”). 
 
@@ -58,13 +61,13 @@ Make high-quality carbon credits accessible to everyone.
 
 
 
-# Read First
+## Read First
 
 - Backing Good Carbon - [Click Here](https://medium.com/greenfield-one/backing-goodcarbon-tokenizing-nature-based-climate-solutions-to-close-funding-gap-create-forward-15750ecffc0b)
 
 
 
-# List Reading 
+## List Reading 
 
 - Carbon Credit Blockchain Startup
   - dclimate.medium.com
@@ -80,6 +83,7 @@ Make high-quality carbon credits accessible to everyone.
 - What is The Role of Kyoto Protocol ? - [Click Here](https://www.conserve-energy-future.com/what-is-kyoto-protocol.php)
 - What American Carbon Registry Do? - [Click Here](https://americancarbonregistry.org/how-it-works/what-we-do)
 - The Greenhouse Gas Protocol - [Click Here](https://ghgprotocol.org/standards/project-protocol)
+- [Stripe Climate increases carbon removal commitments to $15 million, adding four new companies](https://stripe.com/newsroom/news/fall-21-carbon-removal-purchases)
 - Paper - Blockchain of Carbon Trading for UN Sustainable Development Goals - [Click Here](https://www.mdpi.com/2071-1050/12/10/4021/htm)
 - Carbon Credit Registry
   - Marketplace Gold Standard, Bauminvest - [Click Here](https://marketplace.goldstandard.org/collections/projects/products/bauminvest-bauminvest-reforestation-project)
@@ -106,7 +110,7 @@ Make high-quality carbon credits accessible to everyone.
 
 
 
-# Watchlist
+## Watchlist
 
 - [ICDX](https://www.icdx.co.id/our-market/carbon)
 - [dclimate.net](https://www.dclimate.net/)
@@ -116,6 +120,12 @@ Make high-quality carbon credits accessible to everyone.
 - [bluesource.com](https://www.bluesource.com/services/carbon-offset-project-development/)
 - southpole.com
 - goldstandard.org
+- Awesome Carbon Projects
+  - [Sustaera](https://www.sustaera.com/)
+  - [Eion Carbon](https://eioncarbon.com/)
+  - [4401 Earth](https://4401.earth/)
+  - [Ebb Carbon](https://www.ebbcarbon.com/)
+
 
 
 
