@@ -369,26 +369,6 @@ Verra and other registries don’t oppose tokenization. Instead, Verra is explor
 
 
 
-# Roxi Starter Pack
-
-
-
-## Reports
-
-- [State of The Voluntary Carbon Markets 2022 Q3](D:\PT Rantai Oksigen Indonesia (Lock)\References\State of The Voluntary Carbon Markets 2022 Q3.pdf)
-- [Verra Public Consultation on Crypto Instruments-and Tokens](D:\PT Rantai Oksigen Indonesia (Lock)\References\Verra Public Consultation on Crypto Instruments-and Tokens.pdf)
-- [CTX Offset Guide](D:\PT Rantai Oksigen Indonesia (Lock)\References\CTX UserGuide Updated June 2022.pdf)
-
-
-
-## Ebooks
-
-- [Investing In ETF For Dummies (2015)](D:\PT Rantai Oksigen Indonesia (Lock)\References\Investing In ETF For Dummies (2015).pdf)
-
----
-
-
-
 # Carbon Financing
 
 
