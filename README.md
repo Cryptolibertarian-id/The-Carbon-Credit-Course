@@ -1,20 +1,20 @@
 # The Carbon Credit Course
 
-
-
-
-
 # Table of Contents
 
-
-
 - Carbon Information Resources
-- List Reading
+
+  - Read First
+  - List Reading
+  - Watch List
+
 - IPCC
 - Carbon Market
+
   - Compliance Market
 
 - Carbon Credit
+
   - Type of Carbon Credits
   - Carbon Credit Generation
 
@@ -24,31 +24,27 @@
 - Carbon Market Problem
 - Solution
 
-
-
 ---
-
-
 
 # Carbon Information Resources
 
-Last Touched on 28 July 2022
+Last Touched on 12 August 2022
 
-| Parameter               | Value                                                        | Note |
-| ----------------------- | ------------------------------------------------------------ | ---- |
+| Parameter               | Value                                                            | Note |
+| ----------------------- | ---------------------------------------------------------------- | ---- |
 | Carbon Stocks Watchlist | [Click Here](https://carboncredits.com/carbon-stocks-watchlist/) |      |
-| GHG Protocol            | [Click Here](https://ghgprotocol.org/)                       |      |
-|                         |                                                              |      |
+| GHG Protocol            | [Click Here](https://ghgprotocol.org/)                           |      |
+| Climate Clock           | [Click Here](https://climateclock.world/)                        |      |
 
-Carbon offset credits (a/k/a “carbon offsets”, “carbon credits”). 
+Carbon offset credits (a/k/a “carbon offsets”, “carbon credits”).
 
-Every financial transaction has a climate consequence. Pretty much everything we buy has a carbon footprint. Our daily choices leave a carbon footprint. The average American generates 16 tons of CO2e a year through driving, shopping, using electricity and gas at home, and generally going through the motions of everyday life. 
+Every financial transaction has a climate consequence. Pretty much everything we buy has a carbon footprint. Our daily choices leave a carbon footprint. The average American generates 16 tons of CO2e a year through driving, shopping, using electricity and gas at home, and generally going through the motions of everyday life.
 
 Carbon credits are generated in both the compliance and voluntary markets.
 
 Carbon-credit trading is set to hit $50 billion by 2030.
 
-Carbon Credit Settlement Platform 
+Carbon Credit Settlement Platform
 
 "Swift for the carbon markets"
 
@@ -56,15 +52,11 @@ Make high-quality carbon credits accessible to everyone.
 
 ---
 
-
-
-# Read First
+## Read First
 
 - Backing Good Carbon - [Click Here](https://medium.com/greenfield-one/backing-goodcarbon-tokenizing-nature-based-climate-solutions-to-close-funding-gap-create-forward-15750ecffc0b)
 
-
-
-## IFC 
+## IFC
 
 - Keyword Google = IFC Issues Innovative $152 Million Bond
 - [IFC Pressroom Bond Carbon Credit Market](https://pressroom.ifc.org/all/pages/PressDetail.aspx?ID=25834)
@@ -75,11 +67,10 @@ Make high-quality carbon credits accessible to everyone.
 - [Apply IFC Financing](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/solutions/how-to-apply-for-financing)
 - [Kasigau Corridor REDD+ project in southern Kenya](https://www.worldagroforestry.org/publication/kasigau-corridor-redd-project-southern-kenya)
 
-
-
-# List Reading 
+## List Reading
 
 - Carbon Credit Blockchain Startup
+
   - dclimate.medium.com
 
 - What Are Carbon Credit? - [Click Here](https://www.conserve-energy-future.com/carbon-credits.php)
@@ -93,6 +84,7 @@ Make high-quality carbon credits accessible to everyone.
 - What is The Role of Kyoto Protocol ? - [Click Here](https://www.conserve-energy-future.com/what-is-kyoto-protocol.php)
 - What American Carbon Registry Do? - [Click Here](https://americancarbonregistry.org/how-it-works/what-we-do)
 - The Greenhouse Gas Protocol - [Click Here](https://ghgprotocol.org/standards/project-protocol)
+- [Stripe Climate increases carbon removal commitments to $15 million, adding four new companies](https://stripe.com/newsroom/news/fall-21-carbon-removal-purchases)
 - Paper - Blockchain of Carbon Trading for UN Sustainable Development Goals - [Click Here](https://www.mdpi.com/2071-1050/12/10/4021/htm)
 - Carbon Credit Registry
   - Marketplace Gold Standard, Bauminvest - [Click Here](https://marketplace.goldstandard.org/collections/projects/products/bauminvest-bauminvest-reforestation-project)
@@ -111,15 +103,11 @@ Make high-quality carbon credits accessible to everyone.
   - Carbonplace and Visa Team Up for Carbon Credit Transfer - [Click Here](https://www.prnewswire.com/news-releases/carbonplace-and-visa-team-up-for-carbon-credit-transfer-301542372.html)
   - Carbonplace, NAB and Visa Team Up for Carbon Credit Transfer - [Click Here](https://news.nab.com.au/news/carbonplace-transfer/)
   - BBVA joins global carbon credit transaction network, Carbonplace - [Click Here](https://www.bbva.com/en/sustainability/bbva-joins-global-carbon-credit-transaction-network-carbonplace/)
-  - Carbonplace and Climate Impact X collaborate to revolutionize carbon credit - [Click Here](https://www.natwestgroup.com/news/2022/03/carbonplace-and-climate-impact-x-collaborate-to-revolutionize-carbon-credit-trading.html) 
-
-
+  - Carbonplace and Climate Impact X collaborate to revolutionize carbon credit - [Click Here](https://www.natwestgroup.com/news/2022/03/carbonplace-and-climate-impact-x-collaborate-to-revolutionize-carbon-credit-trading.html)
 
 ---
 
-
-
-# Watchlist
+## Watchlist
 
 - [ICDX](https://www.icdx.co.id/our-market/carbon)
 - [dclimate.net](https://www.dclimate.net/)
@@ -129,12 +117,13 @@ Make high-quality carbon credits accessible to everyone.
 - [bluesource.com](https://www.bluesource.com/services/carbon-offset-project-development/)
 - southpole.com
 - goldstandard.org
-
-
+- Awesome Carbon Projects
+  - [Sustaera](https://www.sustaera.com/)
+  - [Eion Carbon](https://eioncarbon.com/)
+  - [4401 Earth](https://4401.earth/)
+  - [Ebb Carbon](https://www.ebbcarbon.com/)
 
 ---
-
-
 
 # IPCC
 
@@ -142,69 +131,45 @@ Make high-quality carbon credits accessible to everyone.
 
 During the past 100 years, global average surface temperature increased by about 0.7 degrees Celsius resulting in [climate change](https://en.wikipedia.org/wiki/Climate_change).
 
-
-
-
-
 # Carbon Market
 
-The carbon market is split in two : 
+The carbon market is split in two :
 
-- The compliance side is driven by legislative obligations placed on businesses to reduce their carbon footprint. 
+- The compliance side is driven by legislative obligations placed on businesses to reduce their carbon footprint.
 - The voluntary side grew out of demands from consumers that the companies they buy from operate in the most carbon-neutral way possible.
 
 <img src="assets/Carbon-Market-1.png" style="zoom:110%;" />
 
-
-
 ---
-
-
 
 <img src="/assets/Carbon-Market-2.png" style="zoom:110%;" />
 
-
-
 ---
-
-
 
 ## Compliance Market
 
 The compliance markets start with interactions between large institutions – industrial manufacturers and other enterprises.
 
-Carbon trading – or the carbon market – was first developed and introduced in the 1990s. In assigning a cost to the environmental damage of CO2 emissions, companies could, in theory, track and offset their own emissions. By purchasing carbon credits tied to ‘green projects’ in the marketplace, businesses across a range of industries could continue their practices while offsetting emissions and therefore reducing environmental damage. 
+Carbon trading – or the carbon market – was first developed and introduced in the 1990s. In assigning a cost to the environmental damage of CO2 emissions, companies could, in theory, track and offset their own emissions. By purchasing carbon credits tied to ‘green projects’ in the marketplace, businesses across a range of industries could continue their practices while offsetting emissions and therefore reducing environmental damage.
 
-For example, a mining company subjected to an emissions limit could purchase an offset credit owned by a forest owner who could agree to use that money to delay or reduce a harvest. This would then allow the mining company to pollute above their set limit, and use the avoided forest emissions as credit. 
-
-
+For example, a mining company subjected to an emissions limit could purchase an offset credit owned by a forest owner who could agree to use that money to delay or reduce a harvest. This would then allow the mining company to pollute above their set limit, and use the avoided forest emissions as credit.
 
 ---
-
-
 
 # Carbon Credit
 
 **A Carbon Credit is an allowance for a company holding the credit to emit carbon emissions or greenhouse gases.** A single credit equals one ton of carbon dioxide to be emitted. Companies hold many credits, as many as they wish to purchase to balance out their emissions.
 
-
-
 ---
-
-
 
 ## Type of Carbon Credits
 
 There are two types of carbon credits:
 
 1. **Voluntary emissions reduction (VER):** A carbon credit from an offsetting project that has a third-party certification standard such as the [Gold Standard](https://www.goldstandard.org/) and many others, but isn't certified by the UN schemes such as the Clean Development Mechanism (CDM). It is exchanged in the over-the-counter voluntary market for credits. This can't be used to achieve obligations under the Kyoto Protocol. VER projects are certified but are not traded through a central government system.
-2. **Certified emissions reduction (CER):** A carbon credit that is backed by the UN and issues a permit for one unit (tonne) of carbon emissions. They are issued to UN member states for offsetting projects through the CDM, regulated by the Kyoto Protocol, which is an offset scheme that allows a member state to offset emissions in another country because internationally, it is offset in the atmosphere anyways. 
-
-
+2. **Certified emissions reduction (CER):** A carbon credit that is backed by the UN and issues a permit for one unit (tonne) of carbon emissions. They are issued to UN member states for offsetting projects through the CDM, regulated by the Kyoto Protocol, which is an offset scheme that allows a member state to offset emissions in another country because internationally, it is offset in the atmosphere anyways.
 
 ---
-
-
 
 ## Carbon Credit Generation
 
@@ -218,15 +183,11 @@ Emission reduction projects reduce the amount of greenhouse gases in the atmosph
 
 Some projects include more than one of these activities at the same time. For example, gas capture projects at landfills not only prevent the release of methane gas into the atmosphere, but they also use the captured methane to generate electricity that would otherwise be generated by burning fossil fuels such as coal or natural gas.
 
-
-
 ---
-
-
 
 # Carbon Offset
 
-**Carbon Offset Programs** issue credits to projects that purport to avoid greenhouse gas emissions or remove carbon dioxide from the atmosphere. 
+**Carbon Offset Programs** issue credits to projects that purport to avoid greenhouse gas emissions or remove carbon dioxide from the atmosphere.
 
 For example, an oil refinery that is subject to an emissions limit might purchase an **offset credit** issued to a forest owner who agrees to reduce or delay a timber harvest. The refinery can then pollute more, claiming the avoided forest emissions as compensation.
 
@@ -236,7 +197,7 @@ The money you pay to buy offsets supports programs designed to reduce emissions.
 
 Reforestation increases biodiversity, and the installation of solar panels and wind turbines pulls energy demand away from coal and fossil fuel supplies.
 
-A **Carbon offset** is a **certificate representing the reduction** of one metric ton (2,205 lbs) of carbon dioxide emissions, the principal cause of climate change. **Carbon offsets** compensate for your emissions by canceling out greenhouse gas emissions somewhere else in the world.  **Carbon offsets** are purchased to fund green projects and diminish the impact of your own GHG emissions, even though the projects are located elsewhere. 
+A **Carbon offset** is a **certificate representing the reduction** of one metric ton (2,205 lbs) of carbon dioxide emissions, the principal cause of climate change. **Carbon offsets** compensate for your emissions by canceling out greenhouse gas emissions somewhere else in the world. **Carbon offsets** are purchased to fund green projects and diminish the impact of your own GHG emissions, even though the projects are located elsewhere.
 
 A carbon offset can be resold multiple times but once retired, it can no longer be resold. To ensure there is no double-sale, a carbon offset must be kept on a registry. This registry keeps track of the issuance and retirement of offsets.
 
@@ -246,17 +207,11 @@ If you develop a project that reduces carbon dioxide emissions, every ton of emi
 
 Carbon offsets are therefore an available tool for individuals and organizations that wish to mitigate the impact of their own carbon footprints.
 
-
-
 # Carbon Emitters
 
 <img src="assets/Carbon-Emitters.png" style="zoom:110%;" />
 
-
-
 ---
-
-
 
 # Carbon Pricing
 
@@ -266,15 +221,11 @@ Lord Nicholas Stern, Chair of the Grantham Research Institute, stated that "in o
 
 <img src="assets/Carbon-Pricing.png" style="zoom:110%;" />
 
-
-
 # Carbon Market Problem
 
 The market is beset by a lack of visibility, which prevents people from trusting the carbon credit as an asset. Differing standards and regulations in different jurisdictions and the potential for double counting (where the same credit is sold more than once) have resulted in a lack of confidence from potential market participants. And without a universal ledger it isn’t easy to track how much carbon you’ve used or – if you offset it – what the impact of your reduction has been on a tangible level.
 
 Yet even if every country satisfied their Paris commitments to reduce carbon emissions, this would still not be sufficient to create a safe climate. Individuals and businesses will need to do more to plug this gap, and we urgently need to find a way to help them do this, while working on longer-term shifts in parallel.
-
-
 
 # Solution
 
@@ -282,19 +233,13 @@ Put simply, blockchain is the name for a digital ledger in which transactions (o
 
 Applying this to carbon credits to create a "carbon currency" is the key to demystifying and consolidating the carbon market so it can scale up. Carbon credits are the perfect candidate for a digital currency as they are data-driven, rely on multiple approval steps and exist separately to the physical impacts to which they correlate.
 
-
-
 ## DeepMarket
 
-DeepMarkit Corp. announced the commercial launch of its proprietary MintCarbon.io platform. Bringing the VCM onto the blockchain via MintCarbon.io can help unlock  liquidity and transparency, driving market growth while bringing capital to where it is needed the most.
+DeepMarkit Corp. announced the commercial launch of its proprietary MintCarbon.io platform. Bringing the VCM onto the blockchain via MintCarbon.io can help unlock liquidity and transparency, driving market growth while bringing capital to where it is needed the most.
 
 DeepMarkit works closely with Gold Standard and Verra to ensure only the highest quality, credible projects are chosen.
 
-
-
-----
-
-
+---
 
 # Verra
 
@@ -314,51 +259,29 @@ Verra is looking into the details, Verra deems it critical to come up with an ap
 
 <img src="assets/Verra-Seek-Problem.png" style="zoom:90%;" />
 
-
-
-
-
-----
-
-
+---
 
 # Roxi Starter Pack
-
-
 
 ## Reports
 
 - [State of The Voluntary Carbon Markets 2022 Q3](D:\PT Rantai Oksigen Indonesia (Lock)\References\State of The Voluntary Carbon Markets 2022 Q3.pdf)
 - [Verra Public Consultation on Crypto Instruments-and Tokens](D:\PT Rantai Oksigen Indonesia (Lock)\References\Verra Public Consultation on Crypto Instruments-and Tokens.pdf)
-- [CTX Offset Guide](D:\PT Rantai Oksigen Indonesia (Lock)\References\CTX UserGuide Updated June 2022.pdf) 
-
-
+- [CTX Offset Guide](D:\PT Rantai Oksigen Indonesia (Lock)\References\CTX UserGuide Updated June 2022.pdf)
 
 ## Ebooks
 
 - [Investing In ETF For Dummies (2015)](D:\PT Rantai Oksigen Indonesia (Lock)\References\Investing In ETF For Dummies (2015).pdf)
 
-
-
 ---
-
-
 
 # Carbon Financing
 
-
-
 # Financing
-
-
 
 Shares are **units of equity ownership in a corporation**.
 
-
-
 ## Investment
-
-
 
 1. Motives for Investment
 2. Investor Evaluation
@@ -366,37 +289,23 @@ Shares are **units of equity ownership in a corporation**.
 4. Investment Dynamics
 5. Return on Investment
 
-
-
 ---
-
-
 
 ## Investment Portfolios
 
-
-
 <img src="assets/Finance/investment-portfolios.png" style="zoom:110%;" />
-
-
 
 ### Stocks
 
 Stocks are a tiny slice of ownership in a company. Investors buy stocks that they believe will go up in value over time. The risk, of course, is that the stock might not go up at all, or that it might even lose value. To help mitigate that risk, many investors invest in stocks through funds — such as index funds, mutual funds or ETFs — that hold a collection of stocks from a wide variety of companies. If you do opt for individual stocks, it’s usually wise to allocate only 5% to 10% of your portfolio to them.
 
-
-
 ### Bonds
 
-Bonds are loans to companies or governments that get paid back over time with interest. Bonds are considered to be safer investments than stocks, but they generally have lower returns. Since you know how much you’ll receive in interest when you invest in bonds, they’re referred to as fixed-income investments. This fixed rate of return for bonds can balance out the riskier investments, such as stocks, within an investor’s portfolio. 
-
-
+Bonds are loans to companies or governments that get paid back over time with interest. Bonds are considered to be safer investments than stocks, but they generally have lower returns. Since you know how much you’ll receive in interest when you invest in bonds, they’re referred to as fixed-income investments. This fixed rate of return for bonds can balance out the riskier investments, such as stocks, within an investor’s portfolio.
 
 ### Mutual Funds
 
 There are a few different kinds of mutual funds you can invest in, but their general advantage over buying individual stocks is that they allow you to add instant diversification to your portfolio. Mutual funds allow you to invest in a basket of securities, made up of investments such as stocks or bonds, all at once. Mutual funds do have some degree of risk, but they are generally less risky than individual stocks. Some mutual funds are actively managed, but those tend to have higher fees and they don’t often deliver better returns than passively managed funds, which are commonly known as index funds.
-
-
 
 ### Exchange Trade Fund (ETF)
 
@@ -404,67 +313,51 @@ Want the ease of stock trading, but diversification benefits of mutual funds? ET
 
 An exchange traded fund, or ETF, is a basket of investments like stocks or bonds. Exchange traded funds let you invest in lots of securities all at once, and ETFs often have lower fees than other types of funds. ETFs are traded more easily too.
 
-
-
 ---
-
-
 
 # Investment Fund
 
-
-
 ## Index
 
-An index is a method to track the performance of a group of assets in a standardized way. An index is an indicator or measure of something. In finance, it  typically refers to a statistical measure of change in a securities market. Each index related to the stock and bond markets has its own calculation methodology.
+An index is a method to track the performance of a group of assets in a standardized way. An index is an indicator or measure of something. In finance, it typically refers to a statistical measure of change in a securities market. Each index related to the stock and bond markets has its own calculation methodology.
 
 These could be constructed as a [broad-based index](https://www.investopedia.com/terms/b/broad-basedindex.asp) that captures the entire market, such as the [Standard & Poor's 500 Index](https://www.investopedia.com/terms/s/sp500.asp) or [Dow Jones Industrial Average](https://www.investopedia.com/terms/d/djia.asp) (DJIA), or more specialized such as indexes that track a particular industry or segment such as the [Russell 2000 Index](https://www.investopedia.com/terms/r/russell2000.asp), which tracks only small-cap stocks.
 
-
-
 ### Broad-based Index
 
-A broad-based index is designed to reflect the movement of a group of stocks or an entire market—also called a market index. One of the broad-based indexes with the fewest stocks is the Dow Jones Industrial  Average (DJIA), which has just 30 stocks. One of the largest is the [FT Wilshire 5000 Index](https://www.investopedia.com/terms/w/wilshire5000equityindex.asp) (FTW5000). Other examples of broad-based indexes include the S&P 500 Index, the [Russell 3000 Index](https://www.investopedia.com/terms/r/russell_3000.asp), and the NASDAQ Composite Index.
-
-
+A broad-based index is designed to reflect the movement of a group of stocks or an entire market—also called a market index. One of the broad-based indexes with the fewest stocks is the Dow Jones Industrial Average (DJIA), which has just 30 stocks. One of the largest is the [FT Wilshire 5000 Index](https://www.investopedia.com/terms/w/wilshire5000equityindex.asp) (FTW5000). Other examples of broad-based indexes include the S&P 500 Index, the [Russell 3000 Index](https://www.investopedia.com/terms/r/russell_3000.asp), and the NASDAQ Composite Index.
 
 ---
 
-
-
 # Mutual Fund
 
-A **mutual fund** is a professionally managed [investment fund](https://en.wikipedia.org/wiki/Investment_fund) that pools money from many investors to purchase [securities](https://en.wikipedia.org/wiki/Security_(finance)).
+A **mutual fund** is a professionally managed [investment fund](https://en.wikipedia.org/wiki/Investment_fund) that pools money from many investors to purchase [securities](<https://en.wikipedia.org/wiki/Security_(finance)>).
 
-
-
-----
-
-
+---
 
 # Exchange Trade Fund (ETF)
 
 Last Touched on 10 August 2022.
 
-| Parameter                           | Value                                                        | Note |
-| ----------------------------------- | ------------------------------------------------------------ | ---- |
-| ICDX Reksadana                      | [Click Here](https://www.idx.co.id/produk/reksa-dana/)       |      |
-| ICDX ETF                            | [Click Here](https://www.idx.co.id/produk/exchange-traded-fund-etf/) |      |
-| Wikipedia ETF                       | [Click Here](https://en.wikipedia.org/wiki/Exchange-traded_fund) |      |
-| Carbon Allowance ETF List           | [Click Here](https://etfdb.com/etfs/commodity/carbon-allowances/#etfs__returns&sort_name=assets_under_management&sort_order=desc&page=1) |      |
+| Parameter                           | Value                                                                                                                                                                  | Note |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| ICDX Reksadana                      | [Click Here](https://www.idx.co.id/produk/reksa-dana/)                                                                                                                 |      |
+| ICDX ETF                            | [Click Here](https://www.idx.co.id/produk/exchange-traded-fund-etf/)                                                                                                   |      |
+| Wikipedia ETF                       | [Click Here](https://en.wikipedia.org/wiki/Exchange-traded_fund)                                                                                                       |      |
+| Carbon Allowance ETF List           | [Click Here](https://etfdb.com/etfs/commodity/carbon-allowances/#etfs__returns&sort_name=assets_under_management&sort_order=desc&page=1)                               |      |
 | UK Emissions Trading Scheme Markets | [Click Here](https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets) |      |
-| ICE                                 | [Click Here](https://www.theice.com/products/Futures-Options/Energy/Emissions) |      |
+| ICE                                 | [Click Here](https://www.theice.com/products/Futures-Options/Energy/Emissions)                                                                                         |      |
 
 - https://www.udemy.com/course/investing-in-the-stock-market-beginners/
 - https://www.udemy.com/course/comprehensive-study-of-financial-markets/
 - https://www.udemy.com/course/international-stock-market-investing-trading-course/
 - https://www.udemy.com/course/basic-course-on-futures-contracts-trading/
 
-Investors may own a handful of stocks within their investment portfolio in which they track each stock's individual performance. However, the  performance of a small portfolio is not indicative of the overall market. Investors also need information about market sentiment, which is where a stock [index](https://www.investopedia.com/terms/i/index.asp) can be helpful.
+Investors may own a handful of stocks within their investment portfolio in which they track each stock's individual performance. However, the performance of a small portfolio is not indicative of the overall market. Investors also need information about market sentiment, which is where a stock [index](https://www.investopedia.com/terms/i/index.asp) can be helpful.
 
 **What is index?**
 
-> In [Statistics](https://en.wikipedia.org/wiki/Statistics), [Economics](https://en.wikipedia.org/wiki/Economics) and [Finance](https://en.wikipedia.org/wiki/Finance), an **index** is a statistical measure of change in a representative group of  individual data points. These data may be derived from any number of  sources, including company performance, prices, productivity, and  employment. Economic indices track economic health from different  perspectives. 
+> In [Statistics](https://en.wikipedia.org/wiki/Statistics), [Economics](https://en.wikipedia.org/wiki/Economics) and [Finance](https://en.wikipedia.org/wiki/Finance), an **index** is a statistical measure of change in a representative group of individual data points. These data may be derived from any number of sources, including company performance, prices, productivity, and employment. Economic indices track economic health from different perspectives.
 
 Exchange-traded funds can be an excellent entry point into the stock market for new investors. They’re cheap and typically carry lower risk than individual stocks since a single fund holds a diversified collection of investments.
 
@@ -483,13 +376,11 @@ Exchange-traded funds can be an excellent entry point into the stock market for 
 
 Data is current as of August 2, 2022. Data is for informational purposes only.
 
-
-
 ## S&P 500
 
 The S&P 500 is a stock market index that is viewed as a measure of how well the stock market is performing overall. It includes around 500 of the largest U.S. companies. The S&P 500 is an index comprised of 500 leading U.S. companies, and it powers some popular index funds.
 
-*For those would-be investors wanting to jump into the stock market but wondering which stock to buy, legendary investor Warren Buffett has a suggestion: Try buying 500 stocks instead.*
+_For those would-be investors wanting to jump into the stock market but wondering which stock to buy, legendary investor Warren Buffett has a suggestion: Try buying 500 stocks instead._
 
 The S&P 500 is a stock market index that measures the performance of about 500 companies in the U.S. It includes companies across 11 sectors to offer a picture of the health of the U.S. stock market and the broader economy.
 
@@ -505,10 +396,6 @@ Thanks to this criteria, only the country’s largest, most stable corporations 
 
 The S&P 500 isn’t a company itself, but rather a list of companies — otherwise known as an index. So while you can’t buy S&P 500 stock, you can [buy shares in an index that tracks the S&P 500](https://www.nerdwallet.com/article/investing/how-to-invest-in-sp500).
 
-
-
-
-
 # Finance KRUNA
 
 - Stock Index (Stock Market Index)
@@ -521,7 +408,7 @@ The S&P 500 isn’t a company itself, but rather a list of companies — otherwi
           - Fewest Stocks
           - Entire Markets
         - Example
-          - U.S Based 
+          - U.S Based
             - S&P 500
             - Dow Jones Industrial Average (DJIA)
             - Russel 2000 Index
@@ -542,11 +429,7 @@ The S&P 500 isn’t a company itself, but rather a list of companies — otherwi
   - Preference Shares
   - Redeemable Shares
 
-
-
 ---
-
-
 
 # Caveats
 
@@ -556,6 +439,3 @@ The S&P 500 isn’t a company itself, but rather a list of companies — otherwi
 - What solution that more simple than business as ussual?
 - Energi efisience, replace, baru boleh beli
 - Information Dynamic, try look Key Opinion Leader
-
-
-
