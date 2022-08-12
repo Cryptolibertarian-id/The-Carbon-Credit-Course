@@ -305,19 +305,19 @@ DeepMarkit works closely with Gold Standard and Verra to ensure only the highest
 
 Verra launched a public consultation to gather ideas on how the registry should allow for the tokenization of carbon credits.
 
-<img src="assets/Verra-Crypto-Policy.png" style="zoom:90%;" />
+<img src="assets/Verra-Crypto-Policy.png" style="zoom:60%;" />
 
 Verra seek information how to prevent fraud related to the potential association of VCUs (Verified Carbon Units) with carbon-backed tokens. Verra Proposing tougher Know Your Customer (KYC) checks on carbon-backed tokens.
 
-<img src="assets/Verra-Seek-Information.png" style="zoom:90%;" />
+<img src="assets/Verra-Seek-Information.png" style="zoom:60%;" />
 
 Verra aware a critical step that can incorporate crypto into the voluntary carbon market. Verra Seek Legal & Policy Framework.
 
-<img src="assets/Verra-Seek-Framework.png" style="zoom:90%;" />
+<img src="assets/Verra-Seek-Framework.png" style="zoom:60%;" />
 
 Verra is looking into the details, Verra deems it critical to come up with an approach that ensures transparent mapping of crypto tokens and their underlying VCUs. This will help avoid double-use and double-issuance of those VCUs.
 
-<img src="assets/Verra-Seek-Problem.png" style="zoom:90%;" />
+<img src="assets/Verra-Seek-Problem.png" style="zoom:60%;" />
 
 Verra is looking into the anonymity problem :
 
@@ -325,15 +325,27 @@ Robin Rix, Verra’s chief legal officer said :
 
 *“The real interest is around KYC… Fundamentally, I think the key point of distinction will be the KYC throughout the chain… At the end of the day, [carbon markets and cryptocurrencies] are two totally different paradigms.”*
 
-<img src="assets/Verra-Problem-Anonymity.png" style="zoom:90%;" />
+<img src="assets/Verra-Problem-Anonymity.png" style="zoom:60%;" />
 
 Verra is looking into the regulatory uncertainty :
 
-<img src="assets/Verra-Problem-Regulatory.png" style="zoom:90%;" />
+<img src="assets/Verra-Problem-Regulatory.png" style="zoom:60%;" />
 
 Verra is looking into the legal uncertainty :
 
-<img src="assets/Verra-Problem-Legal.png" style="zoom:90%;" />
+<img src="assets/Verra-Problem-Legal.png" style="zoom:60%;" />
+
+Status quo, in the industry :
+
+<img src="assets/Status-Quo-Industry.png" style="zoom:90%;" />
+
+Here is the example how retirement function evoked on Verra Registry :
+
+<img src="assets/Status-Quo-Industry-1.png" style="zoom:60%;" />
+
+The alphanumeric code came from Verra Registry will be stored in the blockchain :
+
+<img src="assets/Status-Quo-Industry-2.png" style="zoom:60%;" />
 
 
 
@@ -343,11 +355,15 @@ Verra is looking into the legal uncertainty :
 
 # Roxi Starter Pack
 
+
+
 ## Reports
 
 - [State of The Voluntary Carbon Markets 2022 Q3](D:\PT Rantai Oksigen Indonesia (Lock)\References\State of The Voluntary Carbon Markets 2022 Q3.pdf)
 - [Verra Public Consultation on Crypto Instruments-and Tokens](D:\PT Rantai Oksigen Indonesia (Lock)\References\Verra Public Consultation on Crypto Instruments-and Tokens.pdf)
 - [CTX Offset Guide](D:\PT Rantai Oksigen Indonesia (Lock)\References\CTX UserGuide Updated June 2022.pdf)
+
+
 
 ## Ebooks
 
@@ -355,11 +371,17 @@ Verra is looking into the legal uncertainty :
 
 ---
 
+
+
 # Carbon Financing
+
+
 
 # Financing
 
 Shares are **units of equity ownership in a corporation**.
+
+
 
 ## Investment
 
@@ -371,21 +393,31 @@ Shares are **units of equity ownership in a corporation**.
 
 ---
 
+
+
 ## Investment Portfolios
 
 <img src="assets/Finance/investment-portfolios.png" style="zoom:110%;" />
+
+
 
 ### Stocks
 
 Stocks are a tiny slice of ownership in a company. Investors buy stocks that they believe will go up in value over time. The risk, of course, is that the stock might not go up at all, or that it might even lose value. To help mitigate that risk, many investors invest in stocks through funds — such as index funds, mutual funds or ETFs — that hold a collection of stocks from a wide variety of companies. If you do opt for individual stocks, it’s usually wise to allocate only 5% to 10% of your portfolio to them.
 
+
+
 ### Bonds
 
 Bonds are loans to companies or governments that get paid back over time with interest. Bonds are considered to be safer investments than stocks, but they generally have lower returns. Since you know how much you’ll receive in interest when you invest in bonds, they’re referred to as fixed-income investments. This fixed rate of return for bonds can balance out the riskier investments, such as stocks, within an investor’s portfolio.
 
+
+
 ### Mutual Funds
 
 There are a few different kinds of mutual funds you can invest in, but their general advantage over buying individual stocks is that they allow you to add instant diversification to your portfolio. Mutual funds allow you to invest in a basket of securities, made up of investments such as stocks or bonds, all at once. Mutual funds do have some degree of risk, but they are generally less risky than individual stocks. Some mutual funds are actively managed, but those tend to have higher fees and they don’t often deliver better returns than passively managed funds, which are commonly known as index funds.
+
+
 
 ### Exchange Trade Fund (ETF)
 
@@ -395,7 +427,11 @@ An exchange traded fund, or ETF, is a basket of investments like stocks or bonds
 
 ---
 
+
+
 # Investment Fund
+
+
 
 ## Index
 
@@ -403,17 +439,25 @@ An index is a method to track the performance of a group of assets in a standard
 
 These could be constructed as a [broad-based index](https://www.investopedia.com/terms/b/broad-basedindex.asp) that captures the entire market, such as the [Standard & Poor's 500 Index](https://www.investopedia.com/terms/s/sp500.asp) or [Dow Jones Industrial Average](https://www.investopedia.com/terms/d/djia.asp) (DJIA), or more specialized such as indexes that track a particular industry or segment such as the [Russell 2000 Index](https://www.investopedia.com/terms/r/russell2000.asp), which tracks only small-cap stocks.
 
+
+
 ### Broad-based Index
 
 A broad-based index is designed to reflect the movement of a group of stocks or an entire market—also called a market index. One of the broad-based indexes with the fewest stocks is the Dow Jones Industrial Average (DJIA), which has just 30 stocks. One of the largest is the [FT Wilshire 5000 Index](https://www.investopedia.com/terms/w/wilshire5000equityindex.asp) (FTW5000). Other examples of broad-based indexes include the S&P 500 Index, the [Russell 3000 Index](https://www.investopedia.com/terms/r/russell_3000.asp), and the NASDAQ Composite Index.
 
+
+
 ---
+
+
 
 # Mutual Fund
 
 A **mutual fund** is a professionally managed [investment fund](https://en.wikipedia.org/wiki/Investment_fund) that pools money from many investors to purchase [securities](<https://en.wikipedia.org/wiki/Security_(finance)>).
 
 ---
+
+
 
 # Exchange Trade Fund (ETF)
 
@@ -456,6 +500,8 @@ Exchange-traded funds can be an excellent entry point into the stock market for 
 
 Data is current as of August 2, 2022. Data is for informational purposes only.
 
+
+
 ## S&P 500
 
 The S&P 500 is a stock market index that is viewed as a measure of how well the stock market is performing overall. It includes around 500 of the largest U.S. companies. The S&P 500 is an index comprised of 500 leading U.S. companies, and it powers some popular index funds.
@@ -475,6 +521,8 @@ To be eligible for the index, companies must meet certain criteria. Among other 
 Thanks to this criteria, only the country’s largest, most stable corporations can be included in the S&P 500. The list is reviewed and updated quarterly.
 
 The S&P 500 isn’t a company itself, but rather a list of companies — otherwise known as an index. So while you can’t buy S&P 500 stock, you can [buy shares in an index that tracks the S&P 500](https://www.nerdwallet.com/article/investing/how-to-invest-in-sp500).
+
+
 
 # Finance KRUNA
 
@@ -509,7 +557,11 @@ The S&P 500 isn’t a company itself, but rather a list of companies — otherwi
   - Preference Shares
   - Redeemable Shares
 
+
+
 ---
+
+
 
 # Caveats
 
