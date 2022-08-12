@@ -64,6 +64,19 @@ Make high-quality carbon credits accessible to everyone.
 
 
 
+## IFC 
+
+- Keyword Google = IFC Issues Innovative $152 Million Bond
+- [IFC Pressroom Bond Carbon Credit Market](https://pressroom.ifc.org/all/pages/PressDetail.aspx?ID=25834)
+- [IFC launches forestry bond that can pay its coupon using REDD+ credits](https://www.environmental-finance.com/content/news/ifc-launches-forestry-bond-that-can-pay-its-coupon-using-redd-credits.html)
+- [IFC upsizes $152 million forestry bond](https://www.environmental-finance.com/content/news/ifc-upsizes-$152-million-forestry-bond.html)
+- [Environmental Finance - Carbon Channel](https://www.environmental-finance.com/channels/carbon.html)
+- [Environmental Finance - Green Bond](https://www.environmental-finance.com/channels/green-bonds.html)
+- [Apply IFC Financing](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/solutions/how-to-apply-for-financing)
+- [Kasigau Corridor REDD+ project in southern Kenya](https://www.worldagroforestry.org/publication/kasigau-corridor-redd-project-southern-kenya)
+
+
+
 # List Reading 
 
 - Carbon Credit Blockchain Startup
@@ -237,7 +250,7 @@ Carbon offsets are therefore an available tool for individuals and organizations
 
 # Carbon Emitters
 
-<img src="/assets/Carbon-Emitters.png" style="zoom:110%;" />
+<img src="assets/Carbon-Emitters.png" style="zoom:110%;" />
 
 
 
@@ -251,7 +264,7 @@ An[ ](https://www.weforum.org/agenda/2017/01/are-businesses-turning-up-the-heat-
 
 Lord Nicholas Stern, Chair of the Grantham Research Institute, stated that "in order to stay within the 2 degree target, carbon prices need to reach between **$50-100** over the next 15 years."
 
-<img src="/assets/Carbon-Pricing.png" style="zoom:110%;" />
+<img src="assets/Carbon-Pricing.png" style="zoom:110%;" />
 
 
 
@@ -283,6 +296,54 @@ DeepMarkit works closely with Gold Standard and Verra to ensure only the highest
 
 
 
+# Verra
+
+Verra launched a public consultation to gather ideas on how the registry should allow for the tokenization of carbon credits.
+
+<img src="assets/Verra-Crypto-Policy.png" style="zoom:90%;" />
+
+Verra seek information how to prevent fraud related to the potential association of VCUs (Verified Carbon Units) with carbon-backed tokens. Verra Proposing tougher Know Your Customer (KYC) checks on carbon-backed tokens.
+
+<img src="assets/Verra-Seek-Information.png" style="zoom:90%;" />
+
+Verra aware a critical step that can incorporate crypto into the voluntary carbon market. Verra Seek Legal & Policy Framework.
+
+<img src="assets/Verra-Seek-Framework.png" style="zoom:90%;" />
+
+Verra is looking into the details, Verra deems it critical to come up with an approach that ensures transparent mapping of crypto tokens and their underlying VCUs. This will help avoid double-use and double-issuance of those VCUs.
+
+<img src="assets/Verra-Seek-Problem.png" style="zoom:90%;" />
+
+
+
+
+
+----
+
+
+
+# Roxi Starter Pack
+
+
+
+## Reports
+
+- [State of The Voluntary Carbon Markets 2022 Q3](D:\PT Rantai Oksigen Indonesia (Lock)\References\State of The Voluntary Carbon Markets 2022 Q3.pdf)
+- [Verra Public Consultation on Crypto Instruments-and Tokens](D:\PT Rantai Oksigen Indonesia (Lock)\References\Verra Public Consultation on Crypto Instruments-and Tokens.pdf)
+- [CTX Offset Guide](D:\PT Rantai Oksigen Indonesia (Lock)\References\CTX UserGuide Updated June 2022.pdf) 
+
+
+
+## Ebooks
+
+- [Investing In ETF For Dummies (2015)](D:\PT Rantai Oksigen Indonesia (Lock)\References\Investing In ETF For Dummies (2015).pdf)
+
+
+
+---
+
+
+
 # Carbon Financing
 
 
@@ -292,6 +353,22 @@ DeepMarkit works closely with Gold Standard and Verra to ensure only the highest
 
 
 Shares are **units of equity ownership in a corporation**.
+
+
+
+## Investment
+
+
+
+1. Motives for Investment
+2. Investor Evaluation
+3. Investor Types
+4. Investment Dynamics
+5. Return on Investment
+
+
+
+---
 
 
 
@@ -465,4 +542,20 @@ The S&P 500 isn’t a company itself, but rather a list of companies — otherwi
   - Preference Shares
   - Redeemable Shares
 
-25 cent
+
+
+---
+
+
+
+# Caveats
+
+- To Educate the Procurement, Finance, and Board of Director (BoD)
+- Heineken need 2 years for carbon education
+- Head of Sustainability
+- What solution that more simple than business as ussual?
+- Energi efisience, replace, baru boleh beli
+- Information Dynamic, try look Key Opinion Leader
+
+
+
