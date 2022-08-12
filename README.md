@@ -347,6 +347,22 @@ The alphanumeric code came from Verra Registry will be stored in the blockchain 
 
 <img src="assets/Status-Quo-Industry-2.png" style="zoom:60%;" />
 
+Deep Market Tackel CVM Problem :
+
+<img src="assets/DeepMarkit.png" style="zoom:90%;" />
+
+
+
+DeepMarkit works closely with Gold Standard and Verra to ensure only the highest quality, credible projects are chosen. 
+
+Here is the issue about sweeping the floor :
+
+<img src="assets/Sweeping-The-Floor.png" style="zoom:90%;" />
+
+Verra and other registries don’t oppose tokenization. Instead, Verra is exploring ways to “immobilize” credits so that their tokenization happens in a transparent and traceable manner.
+
+<img src="assets/Verra-KYC.png" style="zoom:90%;" />
+
 
 
 ---
