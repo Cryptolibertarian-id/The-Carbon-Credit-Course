@@ -14,6 +14,7 @@
 - Carbon Market
 
   - Compliance Market
+  - Voluntary Market
 
 - Carbon Credit
 
@@ -168,6 +169,8 @@ The carbon market is split in two :
 
 <img src="assets/Carbon-Market-1.png" style="zoom:110%;" />
 
+There is an international commitment for building an economic framework that would use financial incentives to discourage excessive carbon emissions or to encourage development of clean energy.
+
 ---
 
 <img src="/assets/Carbon-Market-2.png" style="zoom:110%;" />
@@ -180,11 +183,17 @@ The carbon market is split in two :
 
 ## Compliance Market
 
-The compliance markets start with interactions between large institutions – industrial manufacturers and other enterprises.
 
-Carbon trading – or the carbon market – was first developed and introduced in the 1990s. In assigning a cost to the environmental damage of CO2 emissions, companies could, in theory, track and offset their own emissions. By purchasing carbon credits tied to ‘green projects’ in the marketplace, businesses across a range of industries could continue their practices while offsetting emissions and therefore reducing environmental damage.
 
-For example, a mining company subjected to an emissions limit could purchase an offset credit owned by a forest owner who could agree to use that money to delay or reduce a harvest. This would then allow the mining company to pollute above their set limit, and use the avoided forest emissions as credit.
+
+
+---
+
+
+
+## Voluntary Market
+
+'Voluntary Carbon Credit market is burgeoning, offer new opportunities for individuals, countries, and corporates to purchase carbon credits to offset their own emissions. This transactions helping to tackle carbon emission and support projects developer who reduce the carbon credit footprint on our planet.' 
 
 
 
