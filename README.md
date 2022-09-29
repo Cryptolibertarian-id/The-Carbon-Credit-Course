@@ -430,7 +430,7 @@ Shares are **units of equity ownership in a corporation**.
 
 # Personal Financial Planning
 
-The goal of personal financial planning is to improve your **standard of living** to define your **quality of life**. 
+The goal of personal financial planning is to improve your **standard of living** to define your **quality of life**. You need to understand your current needs and future needs. Your necessities of life determine the spending level  
 
 
 
@@ -458,11 +458,16 @@ The goal of personal financial planning is to improve your **standard of living*
 
 ### Stocks
 
+Common stocks are a form of equity. as an investment, they represent an ownership interest in a corporation. Each share of stock symbolizes a fractional ownership position in a firm; for example, one share of common stock in a corporation that has
+10,000 shares outstanding would denote a 1/10,000 ownership interest in the firm.
+
 Stocks are a tiny slice of ownership in a company. Investors buy stocks that they believe will go up in value over time. The risk, of course, is that the stock might not go up at all, or that it might even lose value. To help mitigate that risk, many investors invest in stocks through funds — such as index funds, mutual funds or ETFs — that hold a collection of stocks from a wide variety of companies. If you do opt for individual stocks, it’s usually wise to allocate only 5% to 10% of your portfolio to them.
 
 
 
 ### Bonds
+
+In contrast to stocks, bonds are liabilities
 
 Bonds are loans to companies or governments that get paid back over time with interest. Bonds are considered to be safer investments than stocks, but they generally have lower returns. Since you know how much you’ll receive in interest when you invest in bonds, they’re referred to as fixed-income investments. This fixed rate of return for bonds can balance out the riskier investments, such as stocks, within an investor’s portfolio.
 
