@@ -205,7 +205,18 @@ Here is the lifecycle of Voluntary Carbon Credits :
 
 ### Project Creation
 
+The Project Creation phase is where carbon offset project have a purpose for the reduction of CO2 or other Greenhouse Gases (GHGs) or the removal CO2 or Greenhouse Gases (GHGs) from the atmosphere. The underlying project could be for avoidance or sequestration and both generate carbon offset. 
 
+<img src="assets/VCC-Lifecycle-1.png" style="zoom:110%;" />
+
+The example of such projects include :
+
+- Renewable Energy Projects
+- Energy Efficiency Schemes
+- Tree-planting Schemes
+- Forestry Protection
+
+For valid calculation to offset emission, there must be an underlying methodology for measuring and verifying the emission reduction or removal that associated with the project. 
 
 
 
@@ -413,6 +424,20 @@ Shares are **units of equity ownership in a corporation**.
 
 
 
+---
+
+
+
+# Personal Financial Planning
+
+The goal of personal financial planning is to improve your **standard of living** to define your **quality of life**. 
+
+
+
+----
+
+
+
 ## Investment
 
 1. Motives for Investment
@@ -601,3 +626,4 @@ The S&P 500 isn’t a company itself, but rather a list of companies — otherwi
 - What solution that more simple than business as ussual?
 - Energi efisience, replace, baru boleh beli
 - Information Dynamic, try look Key Opinion Leader
+
